@@ -1,0 +1,10 @@
+*.out 
+lain_win.exe_*
+*.bmp
+lapks.bin
+voice.bin
+unknown_array
+lain_savegame/*.bin
+lapk_js/*
+voice/extracted/*
+**/__pycache__/**
